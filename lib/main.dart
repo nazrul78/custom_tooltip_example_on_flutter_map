@@ -216,10 +216,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
           )
-          // AttributionWidget.defaultWidget(
-          //   source: 'OpenStreetMap contributors',
-          //   onSourceTapped: null,
-          // ),
         ],
         children: [
           TileLayer(
